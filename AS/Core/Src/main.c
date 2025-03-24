@@ -21,7 +21,8 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-
+#include "spi/spi.h"
+#include "uart/uart.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
